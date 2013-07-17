@@ -3,7 +3,7 @@ BFGMiner-PHP
 
 Simple PHP interface for BFGMiner's API.  This requires PHP:sockets.
 
-*I put this together in May 2013, so I don't knof if it works anymore.*
+*I put this together in May 2013, so I don't know if it works anymore.*
 
 Usage
 -----
